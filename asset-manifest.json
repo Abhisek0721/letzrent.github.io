@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6263bc96.css",
+    "main.js": "/static/js/main.58dd2c0b.js",
+    "static/js/787.6af7ec29.chunk.js": "/static/js/787.6af7ec29.chunk.js",
+    "static/media/Smarter Way To Rent.png": "/static/media/Smarter Way To Rent.0ce520372b92a33b36e1.png",
+    "static/media/Core Team.png": "/static/media/Core Team.306e1ceb784ef0665113.png",
+    "static/media/Feedback.png": "/static/media/Feedback.8cdc816596f8db3d78b8.png",
+    "static/media/Why Renting.png": "/static/media/Why Renting.6edbf0a564deeb135b1a.png",
+    "static/media/Traction.png": "/static/media/Traction.0cc30a09915cf107db04.png",
+    "static/media/predictedGrow.png": "/static/media/predictedGrow.f4107cfbe042950c9271.png",
+    "static/media/Vast Selection.png": "/static/media/Vast Selection.50d37724c9f730acf2f9.png",
+    "static/media/Market Size.png": "/static/media/Market Size.6d900d2bcce7fd159ac6.png",
+    "static/media/Customers Want Low Prices.png": "/static/media/Customers Want Low Prices.51ce797511b604b1638c.png",
+    "static/media/Competitors.png": "/static/media/Competitors.dc8552070616368ba2a1.png",
+    "static/media/Letzrent-logo.png": "/static/media/Letzrent-logo.264560c041d7bab0975a.png",
+    "index.html": "/index.html",
+    "main.6263bc96.css.map": "/static/css/main.6263bc96.css.map",
+    "main.58dd2c0b.js.map": "/static/js/main.58dd2c0b.js.map",
+    "787.6af7ec29.chunk.js.map": "/static/js/787.6af7ec29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6263bc96.css",
+    "static/js/main.58dd2c0b.js"
+  ]
+}
